@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there!
 
 <!--
 **G0NAY/G0NAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AQUITUUSUARIO&layout=compact&show_icons=true&count_private=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0NAY&layout=compact&show_icons=true&count_private=true&theme=dracula)
