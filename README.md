@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0NAY&layout=compact&show_icons=true&count_private=true&theme=dracula)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=G0NAY&theme=dracula&title=Commit,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+-[![trophy](https://github-profile-trophy.vercel.app/?username=G0NAY&theme=dracula&title=Commit,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Alejandro Gonay's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0NAY&show_icons=true&count_private=true&theme=dracula)
+-![Alejandro Gonay's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0NAY&show_icons=true&count_private=true&theme=dracula)
