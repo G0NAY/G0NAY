@@ -5,7 +5,7 @@
 -![Alejandro Gonay's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0NAY&show_icons=true&count_private=true&theme=dracula)
 -->
 
-![https://github.com/G0NAY/Exercices-Html/blob/main/Images/Ilustraci%C3%B3n_sin_t%C3%ADtulo.png](https://github.com/G0NAY/Exercices-Html/blob/main/Images/Ilustraci%C3%B3n_sin_t%C3%ADtulo.png)
+![https://github.com/G0NAY/Exercices-Html/blob/main/Images/Catrina_Calavera_.png](https://github.com/G0NAY/Exercices-Html/blob/main/Images/Catrina_Calavera_.png)
 
 <!--
 **G0NAY/G0NAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
