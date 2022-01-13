@@ -1,5 +1,5 @@
 ### Hello there!
-
+![Top Langs](htps://github-readme-stats.vercel.app/api/top-langs/?username=G0NAY&layout=compact&show_icons=true&count_private=true&theme=dracula)
 ![https://github.com/G0NAY/Exercices-Html/blob/main/Images/Ilustraci%C3%B3n_sin_t%C3%ADtulo.png](https://github.com/G0NAY/Exercices-Html/blob/main/Images/Ilustraci%C3%B3n_sin_t%C3%ADtulo.png)
 
 <!--
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0NAY&layout=compact&show_icons=true&count_private=true&theme=dracula)
+
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=G0NAY&theme=dracula&title=Commit,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
