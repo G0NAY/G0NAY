@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on GPScontrol
 - 🌱 I’m currently learning Django
--    I'm work in GPScontrol from Madd since 2019
+- :busts_in_silhouette: I'm work in GPScontrol from Madd since 2019
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=G0NAY&theme=dracula&title=Commit,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
