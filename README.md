@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GPScontrol
 - 🌱 I’m currently learning Django
-- I'm work in GPScontrol from Madd
+- I'm work in GPScontrol from Madd since 2019
 <!--- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
